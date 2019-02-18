@@ -1307,6 +1307,7 @@ body.page-template {
     }
 
     #cover h1 {
+		font-family:'kakao','돋움', sans-serif;
         font-size: 24px !important;
         line-height: 29px !important; /* 29px = 24(font-size) + 5(line-spacing) */
     }
