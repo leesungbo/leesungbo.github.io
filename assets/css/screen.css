@@ -889,7 +889,7 @@ body.tag-template #navbar {
 
 #post-content p {
 	font-family:'Nanum Myeongjo', 'Noto Sans KR';
-    margin: 12px 0 0 0;
+    margin: 10px 0 0 0;
 }
 
 #post-content ul,
@@ -898,8 +898,8 @@ body.tag-template #navbar {
 }
 
 #post-content blockquote {
-    margin: 28px 0;
-    padding: 28px;
+    margin: 20px 0;
+    padding: 20px;
     border-left: 3px solid #f3cf00;
 }
 
