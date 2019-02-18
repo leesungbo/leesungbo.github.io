@@ -1,4 +1,5 @@
 /* common */
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
 
 * {
     -webkit-box-sizing: border-box;
@@ -18,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Kakao', '돋움', sans-serif;
+    font-family: 'Noto Sans KR', '돋움', sans-serif;
     font-weight: 400;
     color: #1e1e1e;
 }
@@ -885,6 +886,7 @@ body.tag-template #navbar {
 }
 
 #post-content p {
+	font-family:'cwTeXHei', 'Noto Sans KR';
     margin: 12px 0 0 0;
 }
 
