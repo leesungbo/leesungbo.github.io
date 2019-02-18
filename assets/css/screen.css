@@ -905,6 +905,13 @@ body.tag-template #navbar {
 	font-weight:700;
 }
 
+#post-content blockquote h1,
+#post-content blockquote h2,
+#post-content blockquote h3,
+#post-content blockquote h4,
+#post-content blockquote h5,
+#post-content blockquote h6 { font-weight:700; margin-bottom:15px; }
+
 #post-content blockquote > *:first-child {
     margin: 0;
 }
