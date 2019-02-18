@@ -898,6 +898,7 @@ body.tag-template #navbar {
 }
 
 #post-content blockquote {
+	font-family: 'cwTeXMing', 'Nanum Myeongjo', serif;
     margin: 20px 0;
     padding: 15px;
     border-left: 3px solid #f3cf00;
@@ -1312,7 +1313,7 @@ body.page-template {
     }
 
     #cover h1 {
-		font-family:'kakao','돋움', sans-serif;
+		font-family: 'cwTeXMing', 'Nanum Myeongjo' , sans-serif;
         font-size: 24px !important;
         line-height: 29px !important; /* 29px = 24(font-size) + 5(line-spacing) */
     }
