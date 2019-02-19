@@ -1,7 +1,8 @@
 /* common */
 @import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
-@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
-/*@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');*/
+@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+/*@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');*/
 
 * {
     -webkit-box-sizing: border-box;
@@ -21,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'cwTeXHei', 'KoPub Batang' , 'Noto Sans KR', '돋움', sans-serif;
+    font-family: 'cwTeXHei', 'Jeju Myeongjo' , 'Noto Sans KR', '돋움', sans-serif;
     font-weight: 400;
     color: #1e1e1e;
 }
@@ -888,7 +889,7 @@ body.tag-template #navbar {
 }
 
 #post-content p {
-	font-family: 'cwTeXHei', 'KoPub Batang', 'Noto Sans KR';
+	font-family: 'cwTeXHei', 'Jeju Myeongjo', 'Noto Sans KR';
     margin: 10px 0 0 0;
 }
 
@@ -898,7 +899,7 @@ body.tag-template #navbar {
 }
 
 #post-content blockquote {
-	font-family: 'cwTeXHei', 'KoPub Batang', serif;
+	font-family: 'cwTeXHei', 'Jeju Myeongjo', serif;
     margin: 20px 0;
     padding: 15px;
     border-left: 3px solid #f3cf00;
@@ -1329,7 +1330,7 @@ body.page-template {
     }
 
     #cover h1 {
-		font-family: 'cwTeXHei', 'KoPub Batang' , sans-serif;
+		font-family: 'cwTeXHei', 'Jeju Myeongjo' , sans-serif;
         font-size: 24px !important;
         line-height: 29px !important; /* 29px = 24(font-size) + 5(line-spacing) */
     }
