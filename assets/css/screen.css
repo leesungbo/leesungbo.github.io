@@ -1,5 +1,5 @@
 /* common */
-@import url(http://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexming.css);
 @import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
 /*@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
 @import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');*/
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'cwTeXKai', 'Jeju Myeongjo' , 'Noto Sans KR', '돋움', sans-serif;
+    font-family: 'cwTeXMing', 'Jeju Myeongjo' , 'Noto Sans KR', '돋움', sans-serif;
     font-weight: 400;
     color: #1e1e1e;
 }
