@@ -27,6 +27,8 @@ h6 {
     color: #1e1e1e;
 }
 
+ul li { font-family: 'cwTeXMing', 'Jeju Myeongjo' , 'Noto Sans KR', '돋움', sans-serif; }
+
 pre,
 code,
 tt,
