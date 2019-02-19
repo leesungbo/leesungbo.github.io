@@ -1158,7 +1158,7 @@ body.page-template {
 
 @media only screen and (min-width: 720px) {
     .visible-sm, .hidden-lg {
-        display: none !important;
+
     }
 
     #menu-toggle {
@@ -1172,7 +1172,7 @@ body.page-template {
 
 @media only screen and (max-width: 720px) {
     .visible-lg, .hidden-sm {
-        
+        display: none !important;
     }
 
     /* header */
