@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 작가 소개
 permalink: /about/
 image: http://drive.google.com/uc?export=view&id=0B_EfHHET0kr8THZ4ODhsM09hdWs
 sitemap: yes
