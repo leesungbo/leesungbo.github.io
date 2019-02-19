@@ -889,7 +889,7 @@ body.tag-template #navbar {
 }
 
 #post-content p {
-	font-family: 'cwTeXKai', 'Jeju Myeongjo', 'Noto Sans KR';
+	font-family: 'cwTeXMing', 'Jeju Myeongjo', 'Noto Sans KR';
     margin: 10px 0 0 0;
 }
 
@@ -899,7 +899,7 @@ body.tag-template #navbar {
 }
 
 #post-content blockquote {
-	font-family: 'cwTeXKai', 'Jeju Myeongjo', serif;
+	font-family: 'cwTeXMing', 'Jeju Myeongjo', serif;
     margin: 20px 0;
     padding: 15px;
     border-left: 3px solid #f3cf00;
@@ -1330,7 +1330,7 @@ body.page-template {
     }
 
     #cover h1 {
-		font-family: 'cwTeXKai', 'Jeju Myeongjo' , sans-serif;
+		font-family: 'cwTeXMing', 'Jeju Myeongjo' , sans-serif;
         font-size: 24px !important;
         line-height: 29px !important; /* 29px = 24(font-size) + 5(line-spacing) */
     }
