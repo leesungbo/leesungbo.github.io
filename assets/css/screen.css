@@ -1172,7 +1172,7 @@ body.page-template {
 
 @media only screen and (max-width: 720px) {
     .visible-lg, .hidden-sm {
-        display: none !important;
+        
     }
 
     /* header */
