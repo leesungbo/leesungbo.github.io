@@ -7,7 +7,7 @@ sitemap: yes
 tags: [about]
 ---
 
-# 능곡 이성보
+# 능곡 이성보 菱谷 李性輔
 
 ## 약력
 
