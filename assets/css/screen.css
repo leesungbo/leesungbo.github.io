@@ -1156,7 +1156,7 @@ body.page-template {
 
 /* minimal responsive stuff by @@iolo */
 
-@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
     #post-content p  {
 		font-size:18px; 
     }
