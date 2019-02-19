@@ -565,7 +565,7 @@ for small screen(<720px):
     list-style: none;
     position: relative;
     margin: 0 40px;
-    padding: 50px 0 50px 40px;
+    padding: 30px 0 30px 40px;
     border-bottom: 1px solid #e6e6e6;
 }
 
@@ -1377,7 +1377,7 @@ body.page-template {
     /* list(loop) */
     #post-list .post-item {
         margin: 0 15px;
-        padding: 30px 0;
+        padding: 20px 0;
     }
 
     #post-list .post-title,
